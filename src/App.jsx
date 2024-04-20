@@ -17,6 +17,9 @@ function App() {
           <h2 className="mt-4 mb-2 font-bold hover:text-green-400 flex justify-center items-center">
             Our Programs
           </h2>
+          <h2 className="mt-4 mb-2 font-bold hover:text-green-400 flex justify-center items-center">
+            Our Programs
+          </h2>
         </div>
         <div>
           <div className="p-5 shadow-lg rounded cursor-pointer">
